@@ -15,7 +15,7 @@ namespace ConsoleApplication1
         public string st = "";
         public ReadFile()
         {
-            FileStream file = new FileStream("D:\\wow.txt", FileMode.Open);
+            FileStream file = new FileStream("E:\\wow.txt", FileMode.Open);
             StreamReader reader = new StreamReader(file, Encoding.Default);
             st = reader.ReadToEnd();
             Console.WriteLine(st);
@@ -47,4 +47,3 @@ namespace ConsoleApplication1
         }
     }
 }
-,

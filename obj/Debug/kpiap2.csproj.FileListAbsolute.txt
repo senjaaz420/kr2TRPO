@@ -1,0 +1,7 @@
+C:\Users\ARSENIY\source\repos\kpiap2\kpiap2\bin\Debug\kr2TRPO.exe.config
+C:\Users\ARSENIY\source\repos\kpiap2\kpiap2\bin\Debug\kr2TRPO.exe
+C:\Users\ARSENIY\source\repos\kpiap2\kpiap2\bin\Debug\kr2TRPO.pdb
+C:\Users\ARSENIY\source\repos\kpiap2\kpiap2\obj\Debug\kpiap2.csprojResolveAssemblyReference.cache
+C:\Users\ARSENIY\source\repos\kpiap2\kpiap2\obj\Debug\kpiap2.csproj.CoreCompileInputs.cache
+C:\Users\ARSENIY\source\repos\kpiap2\kpiap2\obj\Debug\kr2TRPO.exe
+C:\Users\ARSENIY\source\repos\kpiap2\kpiap2\obj\Debug\kr2TRPO.pdb

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{4D42ABDC-70BC-4C69-ACBF-793E8DB8EA9A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>kpiap2</RootNamespace>
-    <AssemblyName>kpiap2</AssemblyName>
+    <RootNamespace>kr2TRPO</RootNamespace>
+    <AssemblyName>kr2TRPO</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
